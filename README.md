@@ -1,3 +1,1 @@
-# saltstack
-# puppet
 # puppet
